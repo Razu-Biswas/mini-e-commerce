@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Bluetooth Headphones",
+    "price": 59.99,
+    "image": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?auto=format&fit=crop&w=152&q=80",
+    "description": "Experience crystal clear sound with active noise cancellation and 20 hours battery life.",
+    "googleLink": "https://www.google.com/search?q=Wireless+Bluetooth+Headphones"
+  },
+  {
+    "id": 2,
+    "title": "Fitness Smartwatch",
+    "price": 89.99,
+    "image": "https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b?auto=format&fit=crop&w=152&q=80",
+    "description": "Track your heart rate, steps, sleep, and receive smart notifications on the go.",
+    "googleLink": "https://www.google.com/search?q=Fitness+Smartwatch"
+  },
+  {
+    "id": 3,
+    "title": "Portable Bluetooth Speaker",
+    "price": 45.99,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=152&q=80",
+    "description": "Compact speaker delivering rich bass and clear sound with waterproof design.",
+    "googleLink": "https://www.google.com/search?q=Portable+Bluetooth+Speaker"
+  },
+  {
+    "id": 4,
+    "title": "Wireless Charging Pad",
+    "price": 25.49,
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&w=152&q=80",
+    "description": "Fast wireless charger compatible with all Qi-enabled devices.",
+    "googleLink": "https://www.google.com/search?q=Wireless+Charging+Pad"
+  },
+  {
+    "id": 5,
+    "title": "Action Camera 4K",
+    "price": 129.99,
+    "image": "https://images.unsplash.com/photo-1508898578281-774ac4893f98?auto=format&fit=crop&w=152&q=80",
+    "description": "Capture stunning 4K video with waterproof and image stabilization features.",
+    "googleLink": "https://www.google.com/search?q=Action+Camera+4K"
+  },
+  {
+    "id": 6,
+    "title": "Wireless Earbuds",
+    "price": 39.99,
+    "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?auto=format&fit=crop&w=152&q=80",
+    "description": "Comfortable earbuds with deep bass, noise isolation, and touch controls.",
+    "googleLink": "https://www.google.com/search?q=Wireless+Earbuds"
+  },
+  {
+    "id": 7,
+    "title": "Smart Home Assistant",
+    "price": 79.99,
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=152&q=80",
+    "description": "Voice-controlled smart assistant to manage your smart home devices easily.",
+    "googleLink": "https://www.google.com/search?q=Smart+Home+Assistant"
+  },
+  {
+    "id": 8,
+    "title": "4K UHD Monitor",
+    "price": 299.99,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=152&q=80",
+    "description": "27-inch 4K UHD monitor with vivid colors and ultra-thin bezel design.",
+    "googleLink": "https://www.google.com/search?q=4K+UHD+Monitor"
+  },
+  {
+    "id": 9,
+    "title": "Mechanical Gaming Keyboard",
+    "price": 69.99,
+    "image": "https://images.unsplash.com/photo-1512446733611-9099a758e2f7?auto=format&fit=crop&w=152&q=80",
+    "description": "RGB backlit mechanical keyboard with customizable keys and anti-ghosting.",
+    "googleLink": "https://www.google.com/search?q=Mechanical+Gaming+Keyboard"
+  },
+  {
+    "id": 10,
+    "title": "Wireless Mouse",
+    "price": 29.99,
+    "image": "https://images.unsplash.com/photo-1587825140708-521b728e691a?auto=format&fit=crop&w=152&q=80",
+    "description": "Ergonomic wireless mouse with adjustable DPI and long battery life.",
+    "googleLink": "https://www.google.com/search?q=Wireless+Mouse"
+  },
+  {
+    "id": 11,
+    "title": "Portable Power Bank",
+    "price": 35.49,
+    "image": "https://images.unsplash.com/photo-1556741533-f6acd647d2fb?auto=format&fit=crop&w=152&q=80",
+    "description": "10000mAh power bank with fast charging and dual USB ports.",
+    "googleLink": "https://www.google.com/search?q=Portable+Power+Bank"
+  },
+  {
+    "id": 12,
+    "title": "Noise Cancelling Earphones",
+    "price": 49.99,
+    "image": "https://images.unsplash.com/photo-1516707570260-7a6f6e9622a0?auto=format&fit=crop&w=152&q=80",
+    "description": "In-ear noise cancelling earphones with clear sound and comfortable fit.",
+    "googleLink": "https://www.google.com/search?q=Noise+Cancelling+Earphones"
+  },
+  {
+    "id": 13,
+    "title": "Smart LED Desk Lamp",
+    "price": 22.99,
+    "image": "https://images.unsplash.com/photo-1513759565283-508cc5ff7853?auto=format&fit=crop&w=152&q=80",
+    "description": "Adjustable LED desk lamp with touch control and multiple brightness levels.",
+    "googleLink": "https://www.google.com/search?q=Smart+LED+Desk+Lamp"
+  },
+  {
+    "id": 14,
+    "title": "HD Webcam",
+    "price": 59.49,
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=152&q=80",
+    "description": "1080p HD webcam with built-in microphone and auto light correction.",
+    "googleLink": "https://www.google.com/search?q=HD+Webcam"
+  },
+  {
+    "id": 15,
+    "title": "Bluetooth Car Adapter",
+    "price": 18.99,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=152&q=80",
+    "description": "Plug and play Bluetooth adapter to stream music from your phone to car stereo.",
+    "googleLink": "https://www.google.com/search?q=Bluetooth+Car+Adapter"
+  },
+  {
+    "id": 16,
+    "title": "Smartphone Gimbal Stabilizer",
+    "price": 99.99,
+    "image": "https://images.unsplash.com/photo-1526318472351-4ff99d4f54b4?auto=format&fit=crop&w=152&q=80",
+    "description": "3-axis gimbal stabilizer for smooth video recording with your smartphone.",
+    "googleLink": "https://www.google.com/search?q=Smartphone+Gimbal+Stabilizer"
+  },
+  {
+    "id": 17,
+    "title": "USB-C Hub Adapter",
+    "price": 39.99,
+    "image": "https://images.unsplash.com/photo-1587825140778-b9f05eede1ef?auto=format&fit=crop&w=152&q=80",
+    "description": "Expand your laptop ports with HDMI, USB, SD card reader and Ethernet support.",
+    "googleLink": "https://www.google.com/search?q=USB-C+Hub+Adapter"
+  },
+  {
+    "id": 18,
+    "title": "Gaming Headset",
+    "price": 79.99,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=152&q=80",
+    "description": "Surround sound gaming headset with noise-isolating microphone and comfortable ear cups.",
+    "googleLink": "https://www.google.com/search?q=Gaming+Headset"
+  },
+  {
+    "id": 19,
+    "title": "Smart Thermostat",
+    "price": 149.99,
+    "image": "https://images.unsplash.com/photo-1549924231-f129b911e442?auto=format&fit=crop&w=152&q=80",
+    "description": "Wi-Fi enabled smart thermostat to control your home temperature remotely.",
+    "googleLink": "https://www.google.com/search?q=Smart+Thermostat"
+  },
+  {
+    "id": 20,
+    "title": "Electric Toothbrush",
+    "price": 39.99,
+    "image": "https://images.unsplash.com/photo-1576765607929-78444ab28726?auto=format&fit=crop&w=152&q=80",
+    "description": "Rechargeable electric toothbrush with multiple brushing modes and timer.",
+    "googleLink": "https://www.google.com/search?q=Electric+Toothbrush"
+  }
+]
