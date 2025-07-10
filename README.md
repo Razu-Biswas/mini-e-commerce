@@ -19,9 +19,8 @@ ESLint – Linting and code quality
 Context Api -  state Management
 
 ### 💻 Tooling & Developer Experience
-TypeScript support (optional, based on your type declarations)
 
-Hot Module Replacement via Vite
+Hot Module Replacement via Vite ( Netlify)
 ESLint with React and Hooks rules
 
 📦 Features
